@@ -37,6 +37,7 @@ Public Class Form1
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 
 
@@ -44,6 +45,8 @@ Public Class Form1
             'only another change from DC
 
 
+=======
+>>>>>>> parent of d751599... part1 DC
 =======
 >>>>>>> parent of d751599... part1 DC
 =======
