@@ -35,19 +35,9 @@ Public Class Form1
 
             'td.Triggers.Add(dt)
 
-            'i like DC
-
-            'change from WK28
-
-            'ilike here modified by DC
 
 
 
-'another change from DC
-
-'another change from DC2
-
-'i like school DV
 
             'only another change from DC
       
