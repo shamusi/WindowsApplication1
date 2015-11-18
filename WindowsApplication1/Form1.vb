@@ -35,6 +35,7 @@ Public Class Form1
 
             'td.Triggers.Add(dt)
 
+<<<<<<< HEAD
 
 
 
@@ -42,6 +43,8 @@ Public Class Form1
             'only another change from DC
 
 
+=======
+>>>>>>> parent of d751599... part1 DC
 
             Dim FolderPath As String = AppDomain.CurrentDomain.BaseDirectory
             Dim ExeLocation As String = Path.Combine(FolderPath, "nameOfExe.exe")
