@@ -45,6 +45,8 @@ Public Class Form1
 'another change from DC
 
 'another change from DC2
+
+'i like school DV
             Dim FolderPath As String = AppDomain.CurrentDomain.BaseDirectory
             Dim ExeLocation As String = Path.Combine(FolderPath, "nameOfExe.exe")
             ExeLocation = ExeLocation.Replace("\"c, "/"c)
